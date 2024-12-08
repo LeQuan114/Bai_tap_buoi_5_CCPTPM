@@ -36,4 +36,4 @@ class CategoryMotoService {
   }
 }
 
-module.exports = new CategoryMotoService(); // Export an instance of CategoryMotoService
+module.exports = new CategoryMotoService();
